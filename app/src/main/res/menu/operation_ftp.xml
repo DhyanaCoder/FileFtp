@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/copy_operate"
+        android:title="复制到手机"/>
+    <item
+        android:id="@+id/delete_operate"
+        android:title="删除文件"/>
+</menu>
